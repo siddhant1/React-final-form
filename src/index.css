@@ -12,3 +12,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.red {
+  box-shadow: 0 0 30px #cc0000;
+  margin: 10px;
+}
